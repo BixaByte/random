@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="63" viewBox="0 0 63 63">
+    <g id="Group_210" transform="translate(-1 -62)">
+        <g transform="matrix(1, 0, 0, 1, 1, 62)">
+            <g id="Rectangle_76-2" transform="translate(9 9)" fill="#fff" stroke="#fe9839"
+                stroke-width="1">
+                <rect width="45" height="45" rx="10" stroke="none" />
+                <rect x="0.5" y="0.5" width="44" height="44" rx="9.5" fill="none" />
+            </g>
+        </g>
+        <g id="plus_1_" transform="translate(22.982 84.982)">
+            <g id="Group_54">
+                <path id="Path_85"
+                    d="M17.332,8.314H9.723V.7A.7.7,0,0,0,8.314.7V8.314H.7a.7.7,0,0,0,0,1.409H8.314v7.609a.7.7,0,1,0,1.409,0V9.723h7.609a.7.7,0,0,0,0-1.409Z"
+                    fill="#fe9839" />
+            </g>
+        </g>
+    </g>
+</svg>

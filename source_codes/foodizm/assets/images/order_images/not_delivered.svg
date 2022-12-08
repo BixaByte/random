@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <g id="recieved" transform="translate(-250 -531)">
+        <circle id="Ellipse_45" cx="24" cy="24" r="24" transform="translate(250 531)"
+            fill="#D3D3D3" />
+        <g id="cup_cake" transform="translate(258.001 539.002)">
+            <path id="Path_155"
+                d="M27.458,11.532a11.655,11.655,0,0,0-22.92,0,3.727,3.727,0,0,0-.028,7.055L6.2,29.6a.47.47,0,0,0,.462.4H25.331a.47.47,0,0,0,.462-.4l1.694-11.012a3.727,3.727,0,0,0-.028-7.055ZM16,2.932a10.666,10.666,0,0,1,10.471,8.408c-.07,0-.135-.009-.205-.009H5.733c-.07,0-.135,0-.205.009A10.666,10.666,0,0,1,16,2.932ZM7.067,29.063,5.485,18.783c.079,0,.163.014.247.014h5.221l.658,10.266Zm12.379,0h-6.9L11.892,18.8H20.1Zm5.483,0H20.384L21.042,18.8h5.221c.084,0,.168-.009.247-.014Zm1.335-11.2H5.733a2.8,2.8,0,1,1,0-5.6H26.264a2.8,2.8,0,0,1,0,5.6Z"
+                fill="#5E5E5E" />
+            <path id="Path_156" d="M25,7h1.866v.933H25Z" transform="translate(-12.268 -2.668)"
+                fill="#5E5E5E" />
+            <path id="Path_157" d="M18,14h.933v.933H18Z" transform="translate(-8.534 -6.402)"
+                fill="#5E5E5E" />
+            <path id="Path_158" d="M23,17h.933v.933H23Z" transform="translate(-11.201 -8.002)"
+                fill="#5E5E5E" />
+            <path id="Path_159" d="M35,12h1.866v.933H35Z" transform="translate(-17.602 -5.335)"
+                fill="#5E5E5E" />
+            <path id="Path_160" d="M33,19h.933v.933H33Z" transform="translate(-16.535 -9.069)"
+                fill="#5E5E5E" />
+            <path id="Path_161" d="M46,18h.933v.933H46Z" transform="translate(-23.469 -8.535)"
+                fill="#5E5E5E" />
+            <path id="Path_162" d="M41,8h.933v.933H41Z" transform="translate(-20.802 -3.201)"
+                fill="#5E5E5E" />
+        </g>
+    </g>
+</svg>

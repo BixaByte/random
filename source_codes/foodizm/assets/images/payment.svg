@@ -1,0 +1,38 @@
+<svg id="credit-card" xmlns="http://www.w3.org/2000/svg" width="39.922" height="26.615"
+    viewBox="0 0 39.922 26.615">
+    <g id="Group_142" transform="translate(0 0)">
+        <g id="Group_141" transform="translate(0 0)">
+            <path id="Path_117"
+                d="M35.763,85.333H4.158A4.164,4.164,0,0,0,0,89.492v18.3a4.164,4.164,0,0,0,4.158,4.158h31.6a4.164,4.164,0,0,0,4.158-4.158v-18.3A4.164,4.164,0,0,0,35.763,85.333Zm2.5,22.456a2.5,2.5,0,0,1-2.5,2.5H4.158a2.5,2.5,0,0,1-2.5-2.5v-18.3a2.5,2.5,0,0,1,2.5-2.5h31.6a2.5,2.5,0,0,1,2.5,2.5v18.3Z"
+                transform="translate(0 -85.333)" fill="#fbaf03" />
+        </g>
+    </g>
+    <g id="Group_144" transform="translate(0 4.99)">
+        <g id="Group_143" transform="translate(0 0)">
+            <path id="Path_118"
+                d="M39.09,149.333H.832a.832.832,0,0,0-.832.832v4.99a.832.832,0,0,0,.832.832H39.09a.832.832,0,0,0,.832-.832v-4.99A.832.832,0,0,0,39.09,149.333Zm-.832,4.99H1.663V151H38.258v3.327Z"
+                transform="translate(0 -149.333)" fill="#fbaf03" />
+        </g>
+    </g>
+    <g id="Group_146" transform="translate(4.99 16.634)">
+        <g id="Group_145" transform="translate(0 0)">
+            <path id="Path_119"
+                d="M74.812,298.667h-9.98a.832.832,0,1,0,0,1.663h9.98a.832.832,0,1,0,0-1.663Z"
+                transform="translate(-64 -298.667)" fill="#fbaf03" />
+        </g>
+    </g>
+    <g id="Group_148" transform="translate(4.99 19.961)">
+        <g id="Group_147" transform="translate(0 0)">
+            <path id="Path_120"
+                d="M74.812,341.333h-9.98a.832.832,0,1,0,0,1.663h9.98a.832.832,0,1,0,0-1.663Z"
+                transform="translate(-64 -341.333)" fill="#fbaf03" />
+        </g>
+    </g>
+    <g id="Group_150" transform="translate(28.278 14.971)">
+        <g id="Group_149">
+            <path id="Path_121"
+                d="M366.826,277.333h-1.664a2.5,2.5,0,0,0-2.5,2.5v1.663a2.5,2.5,0,0,0,2.5,2.5h1.664a2.5,2.5,0,0,0,2.5-2.5v-1.663A2.5,2.5,0,0,0,366.826,277.333Zm.832,4.159a.832.832,0,0,1-.832.832h-1.664a.832.832,0,0,1-.832-.832v-1.663a.832.832,0,0,1,.832-.832h1.664a.832.832,0,0,1,.832.832Z"
+                transform="translate(-362.667 -277.333)" fill="#fbaf03" />
+        </g>
+    </g>
+</svg>
